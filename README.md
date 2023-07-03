@@ -1,2 +1,1 @@
 Talisman Slatick
-23
